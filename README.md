@@ -5,8 +5,6 @@ It provides a simple web-based UI for chatting with GPT models in real time usin
 
 🔹 Live streaming responses
 
-🔹 Customizable system prompts
-
 🔹 Chat history memory
 
 🔹 Minimal, clean Gradio interface
